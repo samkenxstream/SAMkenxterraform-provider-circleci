@@ -24,7 +24,7 @@ github.com/CircleCI-Public/circleci-cli/pipeline
 github.com/CircleCI-Public/circleci-cli/references
 github.com/CircleCI-Public/circleci-cli/settings
 github.com/CircleCI-Public/circleci-cli/version
-# github.com/Masterminds/goutils v1.1.0
+# github.com/Masterminds/goutils v1.1.1
 ## explicit
 github.com/Masterminds/goutils
 # github.com/Masterminds/semver v1.5.0
